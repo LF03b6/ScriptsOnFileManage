@@ -1,1 +1,2 @@
 # ScriptsOnFileManage
+一些管理文件的脚本
